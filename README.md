@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Perkenalkan saya **Fransiskus Abel Pramuadi Putra**.<br>
+Saya adalah mahasiswa S1 jurusan Teknik Elektro di Universitas Telkom University.<br>
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikut akun [Linkedin](https://www.linkedin.com/in/fransiskusabelpp/)
+
 <!--
 **fransiskusabelpp/fransiskusabelpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
