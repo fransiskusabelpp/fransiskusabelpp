@@ -12,7 +12,16 @@ Here is few things that I have picked up along my learning journey.<br>
 * :dependabot: Google Collab<br>
 
 # 📫Get in touch
-* Linkedin - [Fransiskus Abel Pramuadi Putra](https://www.linkedin.com/in/fransiskusabelpp/)
+* Linkedin - [Fransiskus Abel Pramuadi Putra](https://www.linkedin.com/in/fransiskusabelpp/)<br>
+
+# 📈 GitHub Statistic
+
+<p align="left">
+<a href="https://github.com/fransiskusabelpp">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fransiskusabelpp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fransiskusabelpp&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 <!--
 Perkenalkan saya **Fransiskus Abel Pramuadi Putra**.<br>
